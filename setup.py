@@ -8,10 +8,10 @@ README = (HERE / "README.md").read_text()
 setup(
     name="topsis-sanchita-102003177",
     version="1.0.0",
-    description="It squares the number",
+    description="It finds the topsis and rank of an input file",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/uditvashisht/saral-square",
+    url="https://github.com/SanchitaBora/topsis-102003177",
     author="Sanchita Bora",
     author_email="sbora_be20@thapar.edu",
     license="MIT",
@@ -26,7 +26,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "topsis=Topsis-Sanchita-102003177.102003177:main",
+            "topsis=topsis-sanchita-102003177.102003177:main",
         ]
     },
 )
