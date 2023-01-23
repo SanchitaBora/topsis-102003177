@@ -1,7 +1,7 @@
 # Topsis-Sanchita-102003177
 
 ## Installation
-```pip install saral-square```
+```pip install topsis-sanchita-102003177```
 
 ## How to use it?
 Open terminal and type topsis-sanchita-102003177 and then input
